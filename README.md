@@ -1,1 +1,1 @@
-# CS_Stusy
+# CS_Study
